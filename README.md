@@ -2,7 +2,7 @@
 
 A fully responsive static clone of the official [Zoom](https://zoom.com) homepage, built with **HTML and pure CSS**. This project is designed to mimic the look and layout of Zoom's landing page across both **mobile** and **laptop** devices.
 
-![Zoom Clone Preview]((https://github.com/Irfanshaikislam/Zoom_Ui_Clone/blob/2543b5890cdb9fea27eb1dae64f4e72a4f70e3fb/Screenshot%202025-07-12%20222828.png))
+![Zoom Clone Preview](https://github.com/Irfanshaikislam/Zoom_Ui_Clone/blob/a4e4f2153df49b87e10549a52f594d30f56632bc/Screenshot%202025-07-12%20222828.png)
 
 ---
 
